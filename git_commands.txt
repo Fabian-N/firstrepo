@@ -1,10 +1,10 @@
 Git basic commands
 ----------------------------------------
-$ ls (list files)
 
 $ git init   
 
 $ git status
 
-
 $ git add .
+
+$ git commit -m "3 commands added"
