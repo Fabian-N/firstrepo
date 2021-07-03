@@ -1,2 +1,7 @@
 Git basic commands
 ----------------------------------------
+$ ls (list files)
+
+$ git init
+
+$ git status
