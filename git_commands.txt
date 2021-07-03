@@ -1,7 +1,6 @@
 Git basic commands
-----------------------------------------
 
-$ git init   
+$ git init
 
 $ git status
 
