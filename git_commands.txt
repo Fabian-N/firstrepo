@@ -2,6 +2,9 @@ Git basic commands
 ----------------------------------------
 $ ls (list files)
 
-$ git init
+$ git init   
 
 $ git status
+
+
+$ git add .
