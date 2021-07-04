@@ -7,3 +7,8 @@ $ git status
 $ git add .
 
 $ git commit -m "3 commands added"
+
+// make more changes
+$ git add .
+
+$ git status
