@@ -9,3 +9,5 @@ $ git add .
 $ git commit -m "3 commands added"
 
 Clone from remote.
+
+Something is confusing going on.
