@@ -1,0 +1,30 @@
+Git Remote to/from Local commands
+
+In a browser - navigate to your repo (e.g.; 
+
+Clone from remote repo (from the browser).
+
+$ git clone https://github.com/Fabian-N/firstrepo.git
+
+Make necessary changes to the file.
+
+$ git add .
+$ git commit -m "Write a comment"
+$ git push
+
+if Github Login dialog appears.
+
+enter:
+username: fabiannobbir@gmail.com
+password: N0******01
+
+After providing the info in the pop-up dialog, git may ask username and password again.
+
+enter username as: Fabian-N  (a pop-up dialog appears asking for password):
+enter your password in the pop-up dialog.
+
+You see see: Everything up-to-date
+
+Then go to the web at: https://github.com/Fabian-N/firstrepo.git
+
+You should see the changes in firstrepo file.
