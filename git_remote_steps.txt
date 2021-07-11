@@ -14,7 +14,7 @@ $ git push
 
 if Github Login dialog appears.
 
-enter:
+Credentials:
 username: fabiannobbir@gmail.com
 password: N0******01
 
