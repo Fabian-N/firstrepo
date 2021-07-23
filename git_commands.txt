@@ -8,4 +8,4 @@ $ git add .
 
 $ git commit -m "3 commands added"
 
-Clone from remote.
+Cloned from remote. Make change and push back.
